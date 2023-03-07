@@ -1,1 +1,18 @@
-h1{color:blue;}
+#title{
+    font-size: x-large;
+    text-align: center;
+}
+
+.city{
+    background-color: aliceblue;
+}
+
+div{
+    border:5px solid #264197;
+    padding: 30px;
+    margin: 30px;
+}
+
+a:hover{
+    color:crimson;
+}
